@@ -61,12 +61,6 @@ The website includes:
 
 ## 📂 Folder Structure
 
-
-
-
-
-## 📂 Folder Structure
-
 portfolio/
 │
 ├── index.html
