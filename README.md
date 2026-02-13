@@ -59,16 +59,19 @@ The website includes:
 
 ---
 
-## 📂 Folder Structure
+## 📂 Project Structure
 
-portfolio/
+```
+portfolio-website/
 │
 ├── index.html
 ├── style.css
-├── certificates
+├── certificates/
 ├── BP PAGE PHOTO.JPG
 ├── RESUME.pdf
 └── README.md
+```
+
 
 
 ---
